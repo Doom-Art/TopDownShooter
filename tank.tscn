@@ -1,0 +1,46 @@
+[gd_scene load_steps=7 format=3 uid="uid://dp6fvbuhs80tg"]
+
+[ext_resource type="Texture2D" uid="uid://d0nj6sx55424q" path="res://Art/Track_1_A.png" id="1_mrqt8"]
+[ext_resource type="Script" path="res://Tank.cs" id="1_ucv1c"]
+[ext_resource type="Texture2D" uid="uid://juanyfuk7xex" path="res://Art/Hull_01.png" id="2_tu7x3"]
+[ext_resource type="Script" path="res://Gun.cs" id="3_eddf6"]
+[ext_resource type="Texture2D" uid="uid://by0k5rffbtjlh" path="res://Art/Gun_01.png" id="3_ji0c6"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_87fs2"]
+size = Vector2(238, 161)
+
+[node name="Tank" type="CharacterBody2D"]
+position = Vector2(533, 261)
+rotation = 4.71239
+collision_mask = 6
+script = ExtResource("1_ucv1c")
+
+[node name="Track1A" type="Sprite2D" parent="."]
+position = Vector2(0, 80)
+rotation = 1.5708
+texture = ExtResource("1_mrqt8")
+
+[node name="Track1A2" type="Sprite2D" parent="."]
+position = Vector2(0, -80)
+rotation = 1.5708
+texture = ExtResource("1_mrqt8")
+
+[node name="Hull01" type="Sprite2D" parent="."]
+rotation = 1.5708
+texture = ExtResource("2_tu7x3")
+
+[node name="Gun" type="Node2D" parent="."]
+position = Vector2(-50, 0)
+script = ExtResource("3_eddf6")
+
+[node name="Gun01" type="Sprite2D" parent="Gun"]
+position = Vector2(60, 0)
+rotation = 1.5708
+texture = ExtResource("3_ji0c6")
+
+[node name="Marker2D" type="Marker2D" parent="Gun"]
+position = Vector2(180, 0)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-3, 0.5)
+shape = SubResource("RectangleShape2D_87fs2")

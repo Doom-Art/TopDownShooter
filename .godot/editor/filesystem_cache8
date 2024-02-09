@@ -1,0 +1,30 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1707248023
+Bullet.cs::CSharpScript::-1::1707182625::0::1::::<>RigidBody2D<>::
+bullet.tscn::PackedScene::5136247450812596505::1707182697::0::1::::<><>::uid://cdt6xk24hoipx::::res://Art/Medium_Shell.png<>res://Bullet.cs<>uid://dkbd752bgay3l::::res://Art/Challenge Art/Explosion/Explosion_A.png<>uid://q17jb3qqg83b::::res://Art/Challenge Art/Explosion/Explosion_B.png<>uid://bqbcb4gr5aief::::res://Art/Challenge Art/Explosion/Explosion_C.png<>uid://cmqnvk330nkmp::::res://Art/Challenge Art/Explosion/Explosion_D.png<>uid://b2mrelqxdwr1b::::res://Art/Challenge Art/Explosion/Explosion_E.png<>uid://b0d0du146p1kg::::res://Art/Challenge Art/Explosion/Explosion_F.png<>uid://xithp15blu13::::res://Art/Challenge Art/Explosion/Explosion_G.png<>uid://dk2nmis1eq7ir::::res://Art/Challenge Art/Explosion/Explosion_H.png
+Gun.cs::CSharpScript::-1::1706640158::0::1::::<>Node2D<>::
+icon.svg::CompressedTexture2D::4269313563275329593::1706551770::1706551788::1::::<><>::
+obstacle.tscn::PackedScene::8723744995869829115::1707182698::0::1::::<><>::
+Tank.cs::CSharpScript::-1::1707182692::0::1::::<>CharacterBody2D<>::
+tank.tscn::PackedScene::8276431586424344184::1707182697::0::1::::<><>::uid://d0nj6sx55424q::::res://Art/Track_1_A.png<>res://Tank.cs<>uid://juanyfuk7xex::::res://Art/Hull_01.png<>res://Gun.cs<>uid://by0k5rffbtjlh::::res://Art/Gun_01.png
+world.tscn::PackedScene::2880732597960940955::1707182697::0::1::::<><>::uid://dem4xkr48t60p::::res://Art/Challenge Art/spritesheet.png<>uid://dp6fvbuhs80tg::::res://tank.tscn<>uid://dwj32ngotnf12::::res://obstacle.tscn<>uid://d2i3yjkjpgoxl::::res://Art/Challenge Art/Rock_03.png<>uid://bbhshw2f7sx6o::::res://Art/Challenge Art/Log.png<>uid://bp1o1wiqlco6p::::res://Art/Challenge Art/Rock_01.png<>uid://c5w064n843cc::::res://Art/Challenge Art/Rock_02.png
+::res://Art/::1707176016
+Gun_01.png::CompressedTexture2D::4123224019452429737::1706568878::1706569326::1::::<><>::
+Hull_01.png::CompressedTexture2D::673011632352032475::1706568876::1706569326::1::::<><>::
+Medium_Shell.png::CompressedTexture2D::5024554943933770357::1706568872::1706569326::1::::<><>::
+Track_1_A.png::CompressedTexture2D::8941422847733968798::1706568878::1706569326::1::::<><>::
+::res://Art/Challenge Art/::1707176016
+Log.png::CompressedTexture2D::2472166775530779896::1706644772::1706645906::1::::<><>::
+Rock_01.png::CompressedTexture2D::3493824797023299621::1706644772::1706645906::1::::<><>::
+Rock_02.png::CompressedTexture2D::203691112245457038::1706644772::1706645906::1::::<><>::
+Rock_03.png::CompressedTexture2D::9072619274777246353::1706644772::1706645906::1::::<><>::
+spritesheet.png::CompressedTexture2D::7466592377587876453::1706645840::1706645906::1::::<><>::
+::res://Art/Challenge Art/Explosion/::1707176017
+Explosion_A.png::CompressedTexture2D::7863455779060648547::1706568872::1706647442::1::::<><>::
+Explosion_B.png::CompressedTexture2D::1178654432254240109::1706568872::1706647442::1::::<><>::
+Explosion_C.png::CompressedTexture2D::3511631312693599149::1706568872::1706647442::1::::<><>::
+Explosion_D.png::CompressedTexture2D::5648964927479662279::1706568872::1706647442::1::::<><>::
+Explosion_E.png::CompressedTexture2D::4307331930544973433::1706568872::1706647442::1::::<><>::
+Explosion_F.png::CompressedTexture2D::4148859282098557642::1706568872::1706647442::1::::<><>::
+Explosion_G.png::CompressedTexture2D::1632025378507142536::1706568872::1706647442::1::::<><>::
+Explosion_H.png::CompressedTexture2D::7917699886432676897::1706568872::1706647442::1::::<><>::

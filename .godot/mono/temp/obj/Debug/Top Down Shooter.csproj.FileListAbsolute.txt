@@ -1,0 +1,34 @@
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\bin\Debug\Top Down Shooter.deps.json
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\bin\Debug\Top Down Shooter.runtimeconfig.json
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\bin\Debug\Top Down Shooter.dll
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\bin\Debug\Top Down Shooter.pdb
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.csproj.AssemblyReference.cache
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.AssemblyInfoInputs.cache
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.AssemblyInfo.cs
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.csproj.CoreCompileInputs.cache
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.csproj.CopyComplete
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.dll
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\refint\Top Down Shooter.dll
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.pdb
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.genruntimeconfig.cache
+C:\Users\naikd\Documents\Codes\Godot\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\ref\Top Down Shooter.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.csproj.AssemblyReference.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.AssemblyInfoInputs.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.AssemblyInfo.cs
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.csproj.CoreCompileInputs.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\refint\Top Down Shooter.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.pdb
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\bin\Debug\Top Down Shooter.deps.json
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\bin\Debug\Top Down Shooter.runtimeconfig.json
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\bin\Debug\Top Down Shooter.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\bin\Debug\Top Down Shooter.pdb
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.csproj.CopyComplete
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.genruntimeconfig.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\ref\Top Down Shooter.dll

@@ -38,6 +38,8 @@ layer_0/tile_data = PackedInt32Array(65535, 131073, 0, 0, 1, 1, 1, 131073, 0, 2,
 
 [node name="Camera2D" type="Camera2D" parent="Tank"]
 zoom = Vector2(0.6, 0.6)
+position_smoothing_enabled = true
+rotation_smoothing_speed = 0.5
 
 [node name="Borders" type="StaticBody2D" parent="."]
 collision_layer = 4

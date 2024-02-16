@@ -1,7 +1,7 @@
-res://tank.tscn
-res://Bullet.cs
-res://bullet.tscn
 res://world.tscn
+res://Bullet.cs
+res://tank.tscn
+res://bullet.tscn
 res://obstacle.tscn
 res://Gun.cs
 res://Tank.cs

@@ -32,3 +32,4 @@ C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\tem
 C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.csproj.CopyComplete
 C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.genruntimeconfig.cache
 C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\ref\Top Down Shooter.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TopDownShooter\.godot\mono\temp\obj\Debug\Top Down Shooter.sourcelink.json
